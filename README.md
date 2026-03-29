@@ -1,4 +1,5 @@
 Open Source Software Audit Project
+A Project analyzing Git, Linux environment, and shell scripting with 5 scripts.
 
 Student Details
 Name: Divyanshi Shrivastava
@@ -65,3 +66,5 @@ Sample log file for Script 4
 
 Note
 Some scripts were executed in a Git Bash environment, so certain Linux-specific commands may behave differently compared to a full Linux system.
+
+This project was developed as part of the Open Source Software course to understand both theoretical and practical aspects of FOSS.
